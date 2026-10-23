@@ -56,3 +56,7 @@
 ## 链接
 
 - 原网址：https://storage.sharestaging.com/main
+
+## 下载地址
+
+- 请点击右侧的 [Releases](https://github.com/fsc11662/cloud-storage-install/releases) 页面下载最新安装包。
